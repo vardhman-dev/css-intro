@@ -4,3 +4,6 @@ div{
 .alert-text{
     color: aqua;
 }
+.severe-alert{
+    background-color: black;
+}
