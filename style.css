@@ -30,3 +30,12 @@ div{
 .unread {
   font-size: 30px;
 }
+
+/* Chaining selectors */
+.subsection.header{
+    background-color: brown;
+    color: black;
+}
+.subsection.preview{
+    color: chartreuse;
+}
