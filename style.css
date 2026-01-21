@@ -7,3 +7,26 @@ div{
 .severe-alert{
     background-color: black;
 }
+#title{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    background-color: orangered;
+}
+
+/* Grouping selector */
+.read,
+.unread {
+  color: red;
+  background-color: aqua;
+}
+
+.read {
+  font-size: 20px;
+}
+
+.unread {
+  font-size: 30px;
+}
