@@ -39,3 +39,8 @@ div{
 .subsection.preview{
     color: chartreuse;
 }
+
+#example{
+    height: auto;
+    width: 500px;
+}
